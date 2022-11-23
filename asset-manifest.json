@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/multipage_website_reactJs/static/css/main.634a923c.css",
+    "main.js": "/multipage_website_reactJs/static/js/main.097e5fb6.js",
+    "static/media/digital.jpg": "/multipage_website_reactJs/static/media/digital.455344f99727ff73711d.jpg",
+    "static/media/app.jpg": "/multipage_website_reactJs/static/media/app.4accdc67f432d77478ba.jpg",
+    "static/media/software.jpg": "/multipage_website_reactJs/static/media/software.571e3d3d1dfd7b646f1b.jpg",
+    "static/media/marketing.jpg": "/multipage_website_reactJs/static/media/marketing.7a726dc786f27e19c9dc.jpg",
+    "static/media/android.jpg": "/multipage_website_reactJs/static/media/android.ae34b0e0b724360e859f.jpg",
+    "static/media/img3.svg": "/multipage_website_reactJs/static/media/img3.dd409f5840447bd06e0cc01c5f4bfadb.svg",
+    "static/media/img2.svg": "/multipage_website_reactJs/static/media/img2.77145a07abe1338e187164bd2d9b1e66.svg",
+    "static/media/s1.jpg": "/multipage_website_reactJs/static/media/s1.c2955eacde0809b24c49.jpg",
+    "index.html": "/multipage_website_reactJs/index.html",
+    "main.634a923c.css.map": "/multipage_website_reactJs/static/css/main.634a923c.css.map",
+    "main.097e5fb6.js.map": "/multipage_website_reactJs/static/js/main.097e5fb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.634a923c.css",
+    "static/js/main.097e5fb6.js"
+  ]
+}
